@@ -1,0 +1,5 @@
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\zadacha25\obj\zadacha27\obj\Debug\net7.0\zadacha27.csproj.AssemblyReference.cache
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\zadacha25\obj\zadacha27\obj\Debug\net7.0\zadacha27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\zadacha25\obj\zadacha27\obj\Debug\net7.0\zadacha27.AssemblyInfoInputs.cache
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\zadacha25\obj\zadacha27\obj\Debug\net7.0\zadacha27.AssemblyInfo.cs
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\zadacha25\obj\zadacha27\obj\Debug\net7.0\zadacha27.csproj.CoreCompileInputs.cache
