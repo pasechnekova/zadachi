@@ -1,0 +1,15 @@
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\bin\Debug\net7.0\zadacha23.exe
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\bin\Debug\net7.0\zadacha23.deps.json
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\bin\Debug\net7.0\zadacha23.runtimeconfig.json
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\bin\Debug\net7.0\zadacha23.dll
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\bin\Debug\net7.0\zadacha23.pdb
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.csproj.AssemblyReference.cache
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.AssemblyInfoInputs.cache
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.AssemblyInfo.cs
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.csproj.CoreCompileInputs.cache
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.dll
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\refint\zadacha23.dll
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.pdb
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\zadacha23.genruntimeconfig.cache
+C:\Users\antif_000\Desktop\DOMASHKA\zadacha23\obj\Debug\net7.0\ref\zadacha23.dll
