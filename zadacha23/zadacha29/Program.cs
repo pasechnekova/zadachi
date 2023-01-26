@@ -3,3 +3,24 @@
 6, 1, 33 -> [6, 1, 33]*/
 
 Console.Clear();
+
+Console.Clear();
+  
+void main()
+{
+   Console.WriteLine("Введите 8 чисел с запятой")
+   string n= Console.ReadLine()!;
+   translate(slog n);
+}
+
+string[] slog(string pal)
+{
+   string[]stady = new string[8];
+   stady =pal.Split(",");  //разделяем запятой строку
+   return stady;
+}
+void translate(string[] stady)
+{
+   System.Console.WriteLine(String.Join(",", stady));
+}
+main();
